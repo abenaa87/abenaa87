@@ -15,10 +15,12 @@ A highly motivated Junior SOC Analyst with over 1 year of experience in effectiv
 CompTIA Security+ (in progress)
 
 ## Projects 
-*Permission Problem 
-*Penetration testing
-*Pre-onboarding Runbook
-*Hackthebox Challenge Walkthrough
+- <a href="https://github.com/abenaa87/Permission-Problem">The Permission Problem</a>
+- <a href="https://github.com/abenaa87/Pre-Onboarding-Runbook-Windows-System-Administrator-">Pre-onborading Runbook | Windows System Administrator</a>
+- <a href="https://github.com/abenaa87/Hack-The-Box-Challenge-Walkthrough">Hack The Box Challenge Walkthrough</a>
+- <a href="https://github.com/abenaa87/Penetration-Testing-">Penetration Testing</a>
+
+
 
 ## Skills
 <div>
